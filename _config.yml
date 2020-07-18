@@ -1,11 +1,11 @@
 # Site settings
 author: Freedom J Scheyd
-title: 
+title: Climbing a Mountain
 header-img: img/home-bg.png
 email: joefreedomsch@gmail.com
 copyright_name: Freedom J Scheyd
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A newbie developer, learning the ropes.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  fscheyd
