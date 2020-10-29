@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "******The Adventurer's CLI, a Test in Technical Application."
-date:       2020-10-29 02:21:22 +0000
+date:       2020-10-28 22:21:24 -0400
 permalink:  the_adventurers_cli_a_test_in_technical_application
 ---
 
